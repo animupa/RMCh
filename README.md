@@ -1,8 +1,8 @@
 # RMCh
 Dataset of the Chilean Musical Review's Musical Chronics (2012 - 2022).
 
-It consists of 4841 entries (one per event) and 16 variables :
-- 'ID': unique identifier of the orchestra (produced by Animupa)
+It consists of 4841 entries (one per performance) and 16 variables :
+- 'ID': unique identifier of the performance (produced by Animupa)
 - 'Año': year of the performance
 - 'Título y Medio': description of the performance and main instrument played
 - 'Ocasión y Lugar': event and place where the performance took place
