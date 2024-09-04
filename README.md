@@ -1,5 +1,5 @@
 # RMCh
-Dataset of the Chilean Musical Review's (_Revista Musical Chilena_) Chilean Musical Creation (_Creación Musical Chilena_) section (2012 - 2022).
+Database of the Chilean Musical Creation Section of Revista Musical Chilena (Chilean Musical Magazine) (2012 - 2022)
 
 It consists of 4841 entries (one per performance) and 16 variables :
 - 'ID': unique identifier of the performance (produced by Animupa)
@@ -23,7 +23,7 @@ It consists of 4841 entries (one per performance) and 16 variables :
 
 ## Source
 
-All data has been retrieved from the digital version of the Musical Chronics edited by the Chilean Musical Review (Revista Musical Chilena).
+All data has been retrieved from the digital version of the Chilean Music Creation section edited by the Revista Musical Chilena (Chilean Musical Review).
 
 ## Licence
 
